@@ -8,4 +8,4 @@ Para poder usarlo ~~tengo que explicarte esto porque me pagan para hacerlo, porq
 3. Pulsa la tecla de la intro.
 4. ~~Introduce el número de tu **targeta de crédito**, la **fecha de caducidad** y los **tres dígitos de la parte de atrás.**~~
 5. Ya lo tienes
-![El bromas viviendo en una sociedad (like si lloras cada vez).](file://disc/personal/Descargas/We_live_in_a_society_bottom_text.webp)
+![La roca, pero es una roca.](\\disc\personal\Descargas)
