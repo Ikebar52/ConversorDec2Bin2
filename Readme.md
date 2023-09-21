@@ -10,3 +10,5 @@ Para poder usarlo ~~tengo que explicarte esto porque me pagan para hacerlo, porq
 5. Ya lo tienes
 ![La roca, pero es una roca.](dtuw1afznfv71.png)
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+> [!WARNING]
+> Le estoy observando, estoy en las paredes..
