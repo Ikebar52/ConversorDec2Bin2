@@ -6,6 +6,6 @@ Para poder usarlo ~~tengo que explicarte esto porque me pagan para hacerlo, porq
 1. Abre un lector de Python
 2. Introduce el número decimal que quieres convertir a binario.
 3. Pulsa la tecla de la intro.
-4. ~~Introduce el número de tu **targeta de crédito**, la **fecha de caducidad** y los **tres dígitos de la parte de atrás.**~~
+4. ~~Introduce el número de tu **targeta de crédito**, la **fecha de caducidad** y los **tres dígitos de la parte de atrás**.~~
 5. Ya lo tienes
-![La roca, pero es una roca.](C:\Users\al426262\Documents\GitHub\ConversorDec2Bin2\dtuw1afznfv71.png)
+![La roca, pero es una roca.](dtuw1afznfv71.png)
